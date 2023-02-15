@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhusudhanreddy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusudhanreddy01&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudhanreddy01" /> </p>
 
-- 🌱 I’m currently learning **Golang**
-
 - 📫 How to reach me **madhusudhan.pannala01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
